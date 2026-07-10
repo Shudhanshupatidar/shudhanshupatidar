@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  Replace all PLACEHOLDERS before publishing:                 ║
-  ║  YOUR_GITHUB_USERNAME   → your GitHub handle                ║
+  ║  shudhanshupatidar   → your GitHub handle                ║
   ║  YOUR_LINKEDIN_USERNAME → your LinkedIn slug                ║
   ║  YOUR_PORTFOLIO_URL     → your portfolio URL (no https://)  ║
   ║  YOUR_EMAIL             → your professional email           ║
@@ -20,8 +20,8 @@
 
 <!-- Replace YOUR_LINKEDIN_USERNAME, YOUR_PORTFOLIO_URL, YOUR_EMAIL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shudhanshupatidar.in)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shudhanshupatidar0@gmail.com)
 
 </div>
 
@@ -158,14 +158,14 @@ No Premature Scale  →  Avoid over-engineering early, avoid shortcuts that beco
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME in ALL URLs in this section -->
+<!-- Replace shudhanshupatidar in ALL URLs in this section -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats"/>
+<a href="https://github.com/shudhanshupatidar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shudhanshupatidar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+<a href="https://github.com/shudhanshupatidar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshupatidar&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
 </a>
 
 </div>
@@ -174,8 +174,8 @@ No Premature Scale  →  Avoid over-engineering early, avoid shortcuts that beco
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<!-- Replace shudhanshupatidar below -->
+<img src="https://streak-stats.demolab.com?user=shudhanshupatidar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 </div>
 
@@ -183,11 +183,11 @@ No Premature Scale  →  Avoid over-engineering early, avoid shortcuts that beco
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below -->
+<!-- Replace shudhanshupatidar below -->
 
 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shudhanshupatidar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -195,8 +195,8 @@ No Premature Scale  →  Avoid over-engineering early, avoid shortcuts that beco
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<!-- Replace shudhanshupatidar below -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shudhanshupatidar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -213,11 +213,11 @@ If you're building a product and need a backend developer focused on **reliabili
 <br/>
 
 <!-- Replace all placeholder values below -->
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shudhanshupatidar)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_My_Work-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shudhanshupatidar.in)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shudhanshupatidar0@gmail.com)
 
 <br/><br/>
 
