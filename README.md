@@ -154,56 +154,6 @@ No Premature Scale  →  Avoid over-engineering early, avoid shortcuts that beco
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<!-- Replace shudhanshupatidar in ALL URLs in this section -->
-
-<a href="https://github.com/shudhanshupatidar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shudhanshupatidar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/shudhanshupatidar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshupatidar&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Replace shudhanshupatidar below -->
-<img src="https://streak-stats.demolab.com?user=shudhanshupatidar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Replace shudhanshupatidar below -->
-
-**GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=shudhanshupatidar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Replace shudhanshupatidar below -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shudhanshupatidar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
-<br/>
-
----
-
 ## Let's Connect
 
 If you're building a product and need a backend developer focused on **reliability**, **clean architecture**, and **systems that scale** — I'd be glad to talk.
